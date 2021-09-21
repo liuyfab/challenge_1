@@ -1,8 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
 
-
-## User Story
+## GitHub Page Link
 
 
 ## Acceptance Criteria
