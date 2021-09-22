@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* test comment */
+/* replace class name with header and footer, also combined several selectors by give them same class in HTML. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
