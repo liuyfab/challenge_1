@@ -10,7 +10,7 @@ https://github.com/liuyfab/challenge_1/blob/main/assets/images/Screenshot_git%20
 https://liuyfab.github.io/horiseon/
 
 ## Repository Link
-https://github.com/liuyfab/challenge_1
+https://github.com/liuyfab/horiseon
 
 ##Contact Info
 Yongfeng Liu: liuyongfeng83@gmail.com
