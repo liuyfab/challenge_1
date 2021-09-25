@@ -7,7 +7,7 @@ https://github.com/liuyfab/challenge_1/blob/main/assets/images/Screenshot_code.p
 https://github.com/liuyfab/challenge_1/blob/main/assets/images/Screenshot_git%20command.png
 
 ## GitHub Page Link
-https://liuyfab.github.io/challenge_1/
+https://liuyfab.github.io/horiseon/
 
 ## Repository Link
 https://github.com/liuyfab/challenge_1
