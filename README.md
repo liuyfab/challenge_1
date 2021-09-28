@@ -2,7 +2,7 @@
 All links are functioning correctly after cleaning up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 ## Deploy page screenshot
-https://github.com/liuyfab/horiseon/blob/main/assets/images/Screenshot.png
+![Landing Page](https://github.com/liuyfab/horiseon/blob/main/assets/images/Screenshot.png?raw=true)
 
 ## GitHub Page Link
 https://liuyfab.github.io/horiseon/
